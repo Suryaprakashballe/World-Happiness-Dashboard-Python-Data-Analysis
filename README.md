@@ -42,7 +42,7 @@ and an interactive dashboard.
   - Pandas – data manipulation
   - NumPy – numerical operations
   - Matplotlib / Seaborn – visualizations
-  - Plotly (if applicable) – interactive charts
+  - Plotly – interactive charts
 - **Environment:** Jupyter Notebook
 - **Version Control:** Git & GitHub
 
@@ -82,7 +82,3 @@ The dashboard visualizes:
 - Relationship between GDP per capita and happiness
 - Regional happiness comparisons
 - Factor-wise contribution to happiness
-
-
-*(Add screenshots here if available)*
-
